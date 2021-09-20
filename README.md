@@ -5,9 +5,6 @@
 
 ## Language
 * Java
-* Swift
-* C++
-* Python
 
 ### 주차별 문제
 | 주차               | 문제                                              | 풀이     |

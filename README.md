@@ -7,8 +7,8 @@
 * Java
 
 ### 주차별 문제
-| 주차               | 문제                                              | 풀이     |
-| ------------------ | ------------------------------------------------- | -------- |
+| 주차               | 문제                                              | 
+| ------------------ | ------------------------------------------------- |
 | **1** (21.4.5~4.11) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.04.05~2021.04.11(1%EC%A3%BC%EC%B0%A8)/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95) |
 |   | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.04.05~2021.04.11(1%EC%A3%BC%EC%B0%A8)/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90) |
 |   | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584ㅍ) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.04.05~2021.04.11(1%EC%A3%BC%EC%B0%A8)/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
